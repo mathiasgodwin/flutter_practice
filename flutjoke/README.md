@@ -1,6 +1,7 @@
 # flutjoke
 
 A new Flutter project.
+A tiny Joke app to demonstrate the use of Riverpod (The prince of state management in a personal sense). Following this tutorial by [Elian Ortga](https://dev.to/elianmortega/how-to-start-using-riverpod-statenotifier-and-freezed-in-your-flutter-applications-181k)
 
 ## Getting Started
 
